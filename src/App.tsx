@@ -188,8 +188,8 @@ function App() {
 						</div>
 						<div className="">
 							<p className="text-[#8C8C8C] font-light text-[15px] text-center">
-								&copy;{new Date().getFullYear()} Zaya creative
-								studio Ltd.
+								&copy;{new Date().getFullYear()} Zaya Creative
+								Studios Ltd.
 							</p>
 						</div>
 					</div>
