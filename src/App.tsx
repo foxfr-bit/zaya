@@ -27,7 +27,7 @@ function App() {
 			<div className="max-w-7xl w-full mx-auto py-12 flex flex-col items-center px-8 md:px-4 space-y-24 justify-center">
 				<div className="text-center">
 					<img
-						src="/images/zaya-logo.png"
+						src="/images/Zayapng.png"
 						alt="zaya logo"
 						className="w-60 h-auto pt-12"
 					/>

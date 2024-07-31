@@ -1,3 +1,48 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Define the regular font */
+@font-face {
+    font-family: 'premier-league';
+    src: url('/font/PremierLeague-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Define the medium font */
+  @font-face {
+    font-family: 'premier-league';
+    src: url('/font/PremierLeague-Light.otf') format('opentype');
+    font-weight: light;
+    font-style: normal;
+  }
+  
+  /* Define the bold font */
+  @font-face {
+    font-family: 'premier-league';
+    src: url('/font/PremierLeague-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  /* Use the custom font in your CSS */
+  body {
+    font-family: 'premier-league', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'premier-league', sans-serif;
+    font-weight: bold;
+  }
+  
+  p.medium {
+    font-family: 'premier-league', sans-serif;
+    font-weight: 500;
+  }
+  
+  p.regular {
+    font-family: 'premier-league', sans-serif;
+    font-weight: normal;
+  }
+  
