@@ -29,7 +29,7 @@ function App() {
 					<img
 						src="/images/Zayapng.png"
 						alt="zaya logo"
-						className="w-60 h-auto pt-12"
+						className="w-[400px] h-auto pt-12"
 					/>
 				</div>
 				<div className="text-center md:pb-40">
@@ -189,7 +189,7 @@ function App() {
 						<div className="">
 							<p className="text-[#8C8C8C] font-light text-[15px] text-center">
 								&copy;{new Date().getFullYear()} Zaya Creative
-								Studios Ltd.
+								Studio Ltd.
 							</p>
 						</div>
 					</div>
