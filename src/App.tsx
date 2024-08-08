@@ -77,7 +77,7 @@ function App() {
 						<div className="">
 							<p className="text-[#8C8C8C] font-light text-[15px] flex item-center space-x-8">
 								<a
-									href="https://www.twitter.com/zaya.co.tz"
+									href="https://x.com/zayastudioshq"
 									target="_blank"
 									rel="noreferrer"
 									className="flex items-center space-x-2"
@@ -113,7 +113,7 @@ function App() {
 									Twitter
 								</a>
 								<a
-									href="https://www.instagram.com/zaya.co.tz"
+									href="https://www.instagram.com/zayastudioshq/"
 									target="_blank"
 									rel="noreferrer"
 									className="flex items-center space-x-2"
@@ -149,7 +149,7 @@ function App() {
 									Instagram
 								</a>
 								<a
-									href="https://www.linkedin.com/company/zaya-co-tz"
+									href="https://www.linkedin.com/company/zayastudios/?viewAsMember=true"
 									target="_blank"
 									rel="noreferrer"
 									className="flex items-center space-x-2"
